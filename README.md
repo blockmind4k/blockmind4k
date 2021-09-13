@@ -4,7 +4,7 @@
 - 👀 I’m interested in Programming(ofc)
 - 🌱 I’m currently learning C++ and Python
 - 💞️ I’m looking to collaborate on small school projects :)
-- 📫 How to reach me through...
+- 📫 Reach me through...
 ***
 
 <!---
